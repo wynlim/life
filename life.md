@@ -16,6 +16,7 @@
 - ~2000 Started first job at earth9.com
 - 17/04/2001 registered winnielim.com
 - 2000-2007 worked at various design agencies in Singapore
+- 2006-2012 In the relationship I thought would [last my lifetime](https://medium.com/fragmented-musings/5b235b2c2b98)
 - 2007-2011 Self-employment
 - 2007-19/05/2009 Reclusion
 - 26/07/2007 First tweet
@@ -41,7 +42,8 @@
 - 14/12/2012 Moved to San Francisco
 - 23/12/2012-~ [New blog](http://journal.winnielim.org/) at journal.winnielim.org
 - 29/01/2013 Wrote [first post](https://medium.com/changing-the-world-with-lines-of-code/942f1ceb9e5d) at Medium
-- 19/04/2013 Met @dustin for coffee
+- 19/04/2013 Met @dustin at Blue Bottle
+- 26/04/2013 Met @meowr at Samovar
 - 03/06/2013-~ Started work at Medium
 - 28/06/2013-30/06/2013 Learned to meditate
 - 18/02/2014-21/02/2014 Arizona
