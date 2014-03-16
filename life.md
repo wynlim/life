@@ -8,18 +8,23 @@
 - 1994-1997 Tanjong Katong Girls'
 - ~1996 Fell in love for the first time
 - ~1996 First computer
-- ~1996 First website
+- ~1996 Built first website on Geocities
 - ~1997 Got my heart broken for the first time
 - 1999-2000 SAE Technology College
+- ~1999 First blog running on greymatter
 - ~2000 Moved out
 - ~2000 Started first job at earth9.com
 - 17/04/2001 registered winnielim.com
 - 2000-2007 worked at various design agencies in Singapore
+- 2007-2011 Self-employment
+- 2007-19/05/2009 Reclusion
 - 26/07/2007 First tweet
+- 28/11/2008 [Started blogging](http://defragment.me/thoughts/and-so-it-begins) at defragment.me
 - 02/05/2009 [The day that changed me](https://medium.com/fragmented-musings/d20ab933ff98)
 - 19/05/2009 First coffee with @andycroll after reclusion
 - 22/09/2009 Met @skinnylatte
-- 2007-2011 Self-employment
+- 21/11/2009 Went to barcamp Singapore, first event I attended & met @crazygrape
+- 12/05/2010 [Travelled solo](http://defragment.me/thoughts/travelling-solo-finally) for the first time to Phuket
 - 21/03/2011 registered connections.sg
 - 22/07/2011 [Fell in love with San Francisco with my first step](http://fragmentedposterous.wordpress.com/2011/07/23/day-one-sf/)
 - 31/07/2011 Met @joyce & @ericnakagawa
@@ -31,7 +36,8 @@
 - 30/05/2012 Lived alone for the first time. Tremendously life-changing.
 - 30/11/2012 H1B visa approved
 - 14/12/2012 Moved to San Francisco
-- 29/01/2013 Wrote first post at Medium
+- 23/12/2012-~ [New blog](http://journal.winnielim.org/) at journal.winnielim.org
+- 29/01/2013 Wrote [first post](https://medium.com/changing-the-world-with-lines-of-code/942f1ceb9e5d) at Medium
 - 19/04/2013 Met @dustin for coffee
 - 03/06/2013-~ Started work at Medium
 - 28/06/2013-30/06/2013 Learned to meditate
