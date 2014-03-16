@@ -23,9 +23,12 @@
 - 02/05/2009 [The day that changed me](https://medium.com/fragmented-musings/d20ab933ff98)
 - 19/05/2009 First coffee with @andycroll after reclusion
 - 22/09/2009 Met @skinnylatte
+- 08/10/2009 Met Danny Tan
 - 21/11/2009 Went to barcamp Singapore, first event I attended & met @crazygrape
 - 12/05/2010 [Travelled solo](http://defragment.me/thoughts/travelling-solo-finally) for the first time to Phuket
 - 21/03/2011 registered connections.sg
+- 08/03/2011 Had coffee with @jasonong. Idea to visit SF incepted here.
+- 08/04/2011 Met @minxuan.
 - 22/07/2011 [Fell in love with San Francisco with my first step](http://fragmentedposterous.wordpress.com/2011/07/23/day-one-sf/)
 - 31/07/2011 Met @joyce & @ericnakagawa
 - 02/08/2011 Met @divya
