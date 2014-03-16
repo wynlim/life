@@ -27,17 +27,18 @@
 - 08/10/2009 Met Danny Tan
 - 21/11/2009 Went to barcamp Singapore, first event I attended & met @crazygrape
 - 12/05/2010 [Travelled solo](http://defragment.me/thoughts/travelling-solo-finally) for the first time to Phuket
-- 21/03/2011 registered connections.sg
 - 08/03/2011 Had coffee with @jasonong. Idea to visit SF incepted here.
+- 21/03/2011 registered connections.sg
 - 08/04/2011 Met @minxuan.
 - 22/07/2011 [Fell in love with San Francisco with my first step](http://fragmentedposterous.wordpress.com/2011/07/23/day-one-sf/)
 - 31/07/2011 Met @joyce & @ericnakagawa
 - 02/08/2011 Met @divya
 - 05/08/2011 Met @obviouscorp
 - 08/2011-10/2011 Hawaii
-- 2011-2013 Led design at simplehoney inc
+- 10/2011-05/2013 Led design at simplehoney inc
 - 02/2012-08/2012 [Vancouver](http://fragmentedposterous.wordpress.com/2012/07/29/what-i-have-learnt-in-vancouver/)
 - 30/05/2012 Lived alone for the first time. Tremendously life-changing.
+- 23/06/2012 registered winnielim.org
 - 30/11/2012 H1B visa approved
 - 14/12/2012 Moved to San Francisco
 - 23/12/2012-~ [New blog](http://journal.winnielim.org/) at journal.winnielim.org
