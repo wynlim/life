@@ -45,9 +45,11 @@
 - 29/01/2013 Wrote [first post](https://medium.com/changing-the-world-with-lines-of-code/942f1ceb9e5d) at Medium
 - 19/04/2013 Met @dustin at Blue Bottle
 - 26/04/2013 Met @meowr at Samovar
-- 03/06/2013-~ Started work at Medium
+- 03/06/2013-18/07/2014 Worked at Medium
 - 28/06/2013-30/06/2013 Learned to meditate
 - 11/08/2013 Published ["The Power of Writing"](https://medium.com/writers-on-writing/c235ee82e603)
 - 26/12/2013-30/12/2013 [First road trip](https://medium.com/fragmented-moments/b1c51b19e097)
 - 03/01/2014-05/01/2013 [First successful juice cleanse](https://medium.com/fragmented-musings/116b16f0d440)
 - 18/02/2014-21/02/2014 Arizona
+- 04/04/2014-14/04/2014 [New York](https://medium.com/fragmented-musings/new-york-99e880e8bdb0)
+- 24/07/2014-~ Started work at Stellar
