@@ -52,4 +52,7 @@
 - 03/01/2014-05/01/2013 [First successful juice cleanse](https://medium.com/fragmented-musings/116b16f0d440)
 - 18/02/2014-21/02/2014 Arizona
 - 04/04/2014-14/04/2014 [New York](https://medium.com/fragmented-musings/new-york-99e880e8bdb0)
-- 24/07/2014-~ Started work at Stellar
+- 24/07/2014-14/08/2015 Worked at Stellar
+- 26/11/2014 [Grandmother passed away](http://journal.winnielim.org/endings/)
+- 22/06/2015-13/08/2015 Visited Europe for the first time
+- 08/09/2015 [Left San Francisco](https://medium.com/change-i-want-to-see/i-am-leaving-because-i-can-adc9115ce816)
